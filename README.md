@@ -1,5 +1,3 @@
-HMDB_Converting
-
 ## Purpose: 
 To convert HMDB xml files to mgf. Each record is parsed against the structures .sdf file to create a psuedo mgf. 
 
